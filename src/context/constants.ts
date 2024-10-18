@@ -4,14 +4,14 @@ export const currency: CurrencyType = '$'
 
 export const currentYear = new Date().getFullYear()
 
-export const developedByLink = 'https://coderthemes.com/'
+export const developedByLink = 'https://www.google.com/'
 
-export const developedBy = 'Coderthemes'
+export const developedBy = 'Site Name'
 
-export const contactUs = 'mailto:support@coderthemes.com'
+export const contactUs = 'mailto:support@google.com'
 
 export const buyLink = ''
 
 export const basePath = ''
 
-export const DEFAULT_PAGE_TITLE = 'Social Nextjs | Network, Community and Event Theme'
+export const DEFAULT_PAGE_TITLE = 'Cool Site'
